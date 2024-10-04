@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">My stacks</h2>
+<h2 align="left">My stacks 👾</h2>
 
 ###
 
