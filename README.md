@@ -43,7 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/SaimonEduardo/SaimonEduardo/output/snake.svg" alt="Snake animation" />
+<img src="./output/snake.svg" alt="Snake animation" />
 
 ###
 
