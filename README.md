@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Computer science at UNA University Center / Itabira-MG<br>👨‍💻 Front-End Developer<br>📚 Studying hard</p>
+<p align="left">🎓 Computer science at UNA University Center / Itabira-MG<br>👨‍💻 Software Developer<br>📚 Studying hard</p>
 
 ###
 
